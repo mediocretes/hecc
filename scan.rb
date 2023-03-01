@@ -1,7 +1,7 @@
 require 'bundler/setup'
 Bundler.require
 
-SYSTEMS = [322, 3092, 2401, 2677, 1131, 2166, 426, 2186, 850, 420, 2297, 1913, 482, 564, 1206, 2008, 2823, 2539, 2151, 3206]
+SYSTEMS = [].uniq
 
 SYSTEM_URL_BASE = "http://www.roguewar.org/system"
 
